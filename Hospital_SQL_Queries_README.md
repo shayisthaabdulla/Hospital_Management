@@ -2,7 +2,7 @@
 
 ## 📊 SQL Queries for Business Analysts
 
-This section includes 29 SQL queries structured across key real-world Business Analyst use cases using the hospital management database.
+This section includes 30 SQL queries structured across key real-world Business Analyst use cases using the hospital management database.
 
 ---
 

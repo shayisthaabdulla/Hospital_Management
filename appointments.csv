@@ -1,0 +1,201 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_status,notes
+1,60,15,2024-08-21,Rescheduled,Appointment was rescheduled to a new date.
+2,53,7,2025-04-23,Cancelled,Appointment was cancelled by the patient.
+3,62,12,2025-01-15,No-show,Patient did not show up for the appointment.
+4,36,8,2024-11-29,Rescheduled,Appointment was rescheduled to a new date.
+5,79,7,2024-11-19,No-show,Patient did not show up for the appointment.
+6,43,17,2024-09-13,Completed,Appointment completed successfully.
+7,21,4,2024-11-16,Rescheduled,Appointment was rescheduled to a new date.
+8,91,15,2024-10-27,Completed,Appointment completed successfully.
+9,81,17,2024-09-11,Cancelled,Appointment was cancelled by the patient.
+10,13,13,2025-03-05,Cancelled,Appointment was cancelled by the patient.
+11,15,15,2024-11-16,Rescheduled,Appointment was rescheduled to a new date.
+12,13,3,2024-11-20,Rescheduled,Appointment was rescheduled to a new date.
+13,25,11,2024-09-23,No-show,Patient did not show up for the appointment.
+14,4,3,2025-06-03,Completed,Appointment completed successfully.
+15,65,2,2025-01-20,Completed,Appointment completed successfully.
+16,9,10,2024-10-20,No-show,Patient did not show up for the appointment.
+17,18,9,2024-12-25,Cancelled,Appointment was cancelled by the patient.
+18,77,13,2025-06-04,Cancelled,Appointment was cancelled by the patient.
+19,75,14,2025-06-13,Rescheduled,Appointment was rescheduled to a new date.
+20,72,7,2025-01-14,Rescheduled,Appointment was rescheduled to a new date.
+21,16,11,2024-10-22,Cancelled,Appointment was cancelled by the patient.
+22,95,9,2024-07-16,Rescheduled,Appointment was rescheduled to a new date.
+23,93,3,2024-10-14,Rescheduled,Appointment was rescheduled to a new date.
+24,26,13,2024-09-02,Rescheduled,Appointment was rescheduled to a new date.
+25,78,11,2024-09-13,No-show,Patient did not show up for the appointment.
+26,91,9,2024-07-10,Cancelled,Appointment was cancelled by the patient.
+27,62,6,2024-08-14,Completed,Appointment completed successfully.
+28,15,15,2025-01-08,Cancelled,Appointment was cancelled by the patient.
+29,94,12,2025-04-06,Completed,Appointment completed successfully.
+30,46,14,2024-07-06,No-show,Patient did not show up for the appointment.
+31,9,10,2024-08-19,Rescheduled,Appointment was rescheduled to a new date.
+32,35,12,2024-12-21,Rescheduled,Appointment was rescheduled to a new date.
+33,29,11,2024-12-16,Rescheduled,Appointment was rescheduled to a new date.
+34,60,15,2025-01-28,Rescheduled,Appointment was rescheduled to a new date.
+35,83,15,2024-12-30,Completed,Appointment completed successfully.
+36,34,4,2024-10-24,Rescheduled,Appointment was rescheduled to a new date.
+37,3,9,2025-02-11,No-show,Patient did not show up for the appointment.
+38,57,9,2024-07-25,Completed,Appointment completed successfully.
+39,85,1,2024-07-17,No-show,Patient did not show up for the appointment.
+40,92,9,2025-02-03,Completed,Appointment completed successfully.
+41,50,17,2024-12-24,No-show,Patient did not show up for the appointment.
+42,85,2,2024-07-23,No-show,Patient did not show up for the appointment.
+43,78,8,2025-01-07,No-show,Patient did not show up for the appointment.
+44,38,10,2024-08-12,Cancelled,Appointment was cancelled by the patient.
+45,41,4,2025-05-20,Rescheduled,Appointment was rescheduled to a new date.
+46,91,15,2025-02-10,No-show,Patient did not show up for the appointment.
+47,66,1,2025-06-17,Cancelled,Appointment was cancelled by the patient.
+48,53,18,2024-10-03,Rescheduled,Appointment was rescheduled to a new date.
+49,95,7,2024-09-17,No-show,Patient did not show up for the appointment.
+50,98,17,2024-08-08,Completed,Appointment completed successfully.
+51,67,8,2025-02-16,No-show,Patient did not show up for the appointment.
+52,83,13,2024-09-03,Cancelled,Appointment was cancelled by the patient.
+53,23,9,2025-06-03,Rescheduled,Appointment was rescheduled to a new date.
+54,52,5,2024-10-20,Rescheduled,Appointment was rescheduled to a new date.
+173,53,15,2025-01-29,Completed,Appointment completed successfully.
+55,89,8,2024-06-29,Cancelled,Appointment was cancelled by the patient.
+56,64,13,2025-03-25,Rescheduled,Appointment was rescheduled to a new date.
+57,69,3,2024-12-21,No-show,Patient did not show up for the appointment.
+58,39,5,2025-01-20,Completed,Appointment completed successfully.
+59,32,12,2024-10-07,Completed,Appointment completed successfully.
+60,75,3,2024-07-25,Completed,Appointment completed successfully.
+61,58,17,2024-07-17,No-show,Patient did not show up for the appointment.
+62,58,15,2024-08-11,Completed,Appointment completed successfully.
+63,22,6,2025-06-06,Rescheduled,Appointment was rescheduled to a new date.
+64,17,8,2025-03-11,Rescheduled,Appointment was rescheduled to a new date.
+65,26,4,2024-11-24,Completed,Appointment completed successfully.
+66,67,9,2025-05-23,Rescheduled,Appointment was rescheduled to a new date.
+67,95,12,2025-05-19,No-show,Patient did not show up for the appointment.
+68,51,20,2024-10-10,Cancelled,Appointment was cancelled by the patient.
+69,4,5,2024-06-26,Rescheduled,Appointment was rescheduled to a new date.
+70,44,13,2024-10-30,Completed,Appointment completed successfully.
+71,68,18,2025-06-09,Rescheduled,Appointment was rescheduled to a new date.
+72,39,12,2025-05-19,No-show,Patient did not show up for the appointment.
+73,100,6,2025-03-19,No-show,Patient did not show up for the appointment.
+74,42,13,2024-07-28,Rescheduled,Appointment was rescheduled to a new date.
+75,85,19,2024-09-15,Rescheduled,Appointment was rescheduled to a new date.
+76,18,11,2024-11-19,Completed,Appointment completed successfully.
+77,41,3,2024-06-21,No-show,Patient did not show up for the appointment.
+78,27,20,2024-11-09,No-show,Patient did not show up for the appointment.
+79,78,5,2025-01-22,Cancelled,Appointment was cancelled by the patient.
+80,97,2,2025-01-02,Rescheduled,Appointment was rescheduled to a new date.
+81,33,2,2025-05-01,Cancelled,Appointment was cancelled by the patient.
+82,85,17,2024-08-03,No-show,Patient did not show up for the appointment.
+83,93,11,2024-10-08,No-show,Patient did not show up for the appointment.
+84,37,3,2025-03-11,No-show,Patient did not show up for the appointment.
+85,73,7,2025-04-12,Completed,Appointment completed successfully.
+86,3,7,2024-07-30,Rescheduled,Appointment was rescheduled to a new date.
+87,43,10,2025-04-30,Rescheduled,Appointment was rescheduled to a new date.
+88,25,2,2024-12-09,Cancelled,Appointment was cancelled by the patient.
+89,19,3,2025-02-25,Completed,Appointment completed successfully.
+90,77,7,2025-06-06,Completed,Appointment completed successfully.
+91,42,13,2024-08-20,Completed,Appointment completed successfully.
+92,50,10,2025-02-26,Cancelled,Appointment was cancelled by the patient.
+93,100,11,2024-12-23,No-show,Patient did not show up for the appointment.
+94,79,20,2024-07-08,Cancelled,Appointment was cancelled by the patient.
+95,50,4,2025-03-07,Rescheduled,Appointment was rescheduled to a new date.
+96,68,7,2025-05-31,Completed,Appointment completed successfully.
+97,45,10,2025-05-22,Rescheduled,Appointment was rescheduled to a new date.
+98,56,8,2025-02-07,No-show,Patient did not show up for the appointment.
+99,74,3,2024-11-02,Rescheduled,Appointment was rescheduled to a new date.
+100,28,2,2024-07-26,Completed,Appointment completed successfully.
+101,68,9,2024-08-18,No-show,Patient did not show up for the appointment.
+102,99,2,2024-08-09,Cancelled,Appointment was cancelled by the patient.
+103,75,14,2025-05-04,Cancelled,Appointment was cancelled by the patient.
+104,45,11,2025-03-12,Completed,Appointment completed successfully.
+105,68,1,2025-02-18,Completed,Appointment completed successfully.
+106,58,7,2024-11-19,Cancelled,Appointment was cancelled by the patient.
+107,95,9,2024-10-15,No-show,Patient did not show up for the appointment.
+108,40,16,2024-09-18,Rescheduled,Appointment was rescheduled to a new date.
+109,50,7,2025-04-02,No-show,Patient did not show up for the appointment.
+110,86,6,2024-10-01,Cancelled,Appointment was cancelled by the patient.
+111,28,1,2025-02-07,Rescheduled,Appointment was rescheduled to a new date.
+112,49,17,2024-11-10,Completed,Appointment completed successfully.
+113,71,9,2025-01-15,Completed,Appointment completed successfully.
+114,49,3,2024-08-26,No-show,Patient did not show up for the appointment.
+115,95,7,2025-06-08,Rescheduled,Appointment was rescheduled to a new date.
+116,87,13,2024-08-26,Completed,Appointment completed successfully.
+117,19,8,2025-04-15,No-show,Patient did not show up for the appointment.
+118,72,15,2024-12-15,Rescheduled,Appointment was rescheduled to a new date.
+119,92,14,2024-09-02,Rescheduled,Appointment was rescheduled to a new date.
+120,91,16,2025-05-22,Rescheduled,Appointment was rescheduled to a new date.
+121,38,11,2024-10-23,Cancelled,Appointment was cancelled by the patient.
+122,53,4,2024-07-23,Cancelled,Appointment was cancelled by the patient.
+123,4,19,2024-07-31,Cancelled,Appointment was cancelled by the patient.
+124,56,8,2024-10-10,Cancelled,Appointment was cancelled by the patient.
+125,79,3,2025-01-01,Rescheduled,Appointment was rescheduled to a new date.
+126,26,7,2024-08-14,Completed,Appointment completed successfully.
+127,64,10,2024-09-26,Rescheduled,Appointment was rescheduled to a new date.
+128,83,1,2024-10-12,Cancelled,Appointment was cancelled by the patient.
+129,72,4,2024-09-22,No-show,Patient did not show up for the appointment.
+130,58,19,2024-11-09,Cancelled,Appointment was cancelled by the patient.
+131,27,13,2024-07-28,Rescheduled,Appointment was rescheduled to a new date.
+132,41,17,2024-09-25,No-show,Patient did not show up for the appointment.
+133,49,11,2025-05-12,Rescheduled,Appointment was rescheduled to a new date.
+134,80,7,2025-04-04,No-show,Patient did not show up for the appointment.
+135,64,5,2025-02-09,Completed,Appointment completed successfully.
+136,6,20,2025-05-25,No-show,Patient did not show up for the appointment.
+137,54,15,2024-07-10,Cancelled,Appointment was cancelled by the patient.
+138,77,2,2025-01-02,Rescheduled,Appointment was rescheduled to a new date.
+139,85,5,2024-12-09,Completed,Appointment completed successfully.
+140,15,13,2025-01-06,Completed,Appointment completed successfully.
+141,90,20,2024-06-23,No-show,Patient did not show up for the appointment.
+142,17,2,2024-11-23,No-show,Patient did not show up for the appointment.
+143,26,11,2025-03-02,Cancelled,Appointment was cancelled by the patient.
+144,54,9,2025-04-13,No-show,Patient did not show up for the appointment.
+145,92,3,2024-12-05,No-show,Patient did not show up for the appointment.
+146,54,17,2024-07-27,No-show,Patient did not show up for the appointment.
+147,48,1,2024-10-14,Cancelled,Appointment was cancelled by the patient.
+148,62,10,2024-11-26,Cancelled,Appointment was cancelled by the patient.
+149,94,20,2024-06-21,Cancelled,Appointment was cancelled by the patient.
+150,51,2,2024-11-02,Rescheduled,Appointment was rescheduled to a new date.
+151,84,15,2025-02-15,Completed,Appointment completed successfully.
+152,86,4,2024-10-18,Completed,Appointment completed successfully.
+153,97,9,2025-02-10,Rescheduled,Appointment was rescheduled to a new date.
+154,99,20,2024-11-05,No-show,Patient did not show up for the appointment.
+155,22,19,2025-01-18,Cancelled,Appointment was cancelled by the patient.
+156,5,20,2024-12-10,Cancelled,Appointment was cancelled by the patient.
+157,53,10,2025-04-13,No-show,Patient did not show up for the appointment.
+158,74,16,2025-06-12,Completed,Appointment completed successfully.
+159,100,13,2025-06-05,Cancelled,Appointment was cancelled by the patient.
+160,45,4,2024-11-30,Completed,Appointment completed successfully.
+161,65,1,2024-11-15,No-show,Patient did not show up for the appointment.
+162,16,20,2024-10-19,Completed,Appointment completed successfully.
+163,97,7,2025-05-09,Completed,Appointment completed successfully.
+164,93,6,2025-03-08,No-show,Patient did not show up for the appointment.
+165,69,8,2025-05-05,Completed,Appointment completed successfully.
+166,22,9,2025-02-16,Cancelled,Appointment was cancelled by the patient.
+167,44,17,2024-08-14,Completed,Appointment completed successfully.
+168,9,10,2024-09-30,No-show,Patient did not show up for the appointment.
+169,94,18,2024-11-17,No-show,Patient did not show up for the appointment.
+170,35,4,2024-07-29,Completed,Appointment completed successfully.
+171,57,9,2025-02-27,Cancelled,Appointment was cancelled by the patient.
+172,22,5,2024-12-25,Rescheduled,Appointment was rescheduled to a new date.
+174,1,7,2024-11-22,No-show,Patient did not show up for the appointment.
+175,2,10,2025-04-12,Rescheduled,Appointment was rescheduled to a new date.
+176,17,14,2025-01-05,Cancelled,Appointment was cancelled by the patient.
+177,94,4,2024-09-29,No-show,Patient did not show up for the appointment.
+178,10,16,2024-11-07,Rescheduled,Appointment was rescheduled to a new date.
+179,22,7,2025-05-06,Rescheduled,Appointment was rescheduled to a new date.
+180,68,18,2025-04-25,Cancelled,Appointment was cancelled by the patient.
+181,20,13,2024-08-26,No-show,Patient did not show up for the appointment.
+182,73,7,2025-03-17,Rescheduled,Appointment was rescheduled to a new date.
+183,42,19,2025-04-15,Completed,Appointment completed successfully.
+184,93,2,2025-03-24,Rescheduled,Appointment was rescheduled to a new date.
+185,46,1,2024-10-25,Completed,Appointment completed successfully.
+186,13,4,2024-11-14,Rescheduled,Appointment was rescheduled to a new date.
+187,69,1,2025-03-15,Rescheduled,Appointment was rescheduled to a new date.
+188,32,19,2024-11-13,No-show,Patient did not show up for the appointment.
+189,56,1,2025-04-01,Cancelled,Appointment was cancelled by the patient.
+190,100,8,2025-03-25,Rescheduled,Appointment was rescheduled to a new date.
+191,81,8,2024-07-21,Completed,Appointment completed successfully.
+192,35,10,2025-05-13,Completed,Appointment completed successfully.
+193,91,6,2025-03-04,Cancelled,Appointment was cancelled by the patient.
+194,8,4,2025-03-28,No-show,Patient did not show up for the appointment.
+195,42,11,2025-02-19,No-show,Patient did not show up for the appointment.
+196,68,1,2024-08-12,Rescheduled,Appointment was rescheduled to a new date.
+197,76,19,2024-08-07,Completed,Appointment completed successfully.
+198,78,20,2025-05-07,Completed,Appointment completed successfully.
+199,58,14,2024-06-24,Completed,Appointment completed successfully.
+200,78,15,2024-08-25,No-show,Patient did not show up for the appointment.

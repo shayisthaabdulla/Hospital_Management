@@ -1,0 +1,21 @@
+doctor_id,doctor_name,department_id,email,phone_number,active_flag,hire_date
+1,Michael Tucker,1,michelleolson@callahan.info,308-852-1497,True,2017-05-10
+2,Kimberly Banks,5,thomasamber@gmail.com,980-917-5369,True,2016-03-30
+3,Melissa Bowers,6,rrichards@yahoo.com,550-826-3739,True,2020-04-05
+4,Ashley Moran,4,carl48@yahoo.com,384-549-8533,True,2024-03-25
+5,Mrs. Christina Mckinney,2,woodwardluis@reed-irwin.com,763-973-2983,False,2021-08-24
+6,David Boyd,6,timothymendoza@gmail.com,817-496-6749,True,2018-11-10
+7,Joan Jones,4,bschmitt@gmail.com,545-335-8979,False,2020-07-30
+8,Amber Thomas,6,ysmith@gibson.info,832-224-3292,True,2024-04-15
+9,Christine Crosby,4,alexanderbrian@rodriguez.com,603-264-4108,False,2018-09-24
+10,Michelle Ortiz,4,cookecynthia@hotmail.com,939-213-4692,False,2023-12-24
+11,Dana Schroeder,1,elliserica@gmail.com,249-654-4891,True,2021-04-28
+12,James Harding,5,williamsjulia@griffin.com,805-465-3773,False,2016-06-22
+13,Carlos Reeves,4,laurengray@smith.com,698-802-5747,False,2023-08-08
+14,Jeremiah Hamilton,2,zthomas@padilla.com,208-302-6195,False,2022-02-10
+15,Brittany Diaz,5,callen@yahoo.com,920-469-2084,False,2022-11-20
+16,Heather Morgan,6,frankwang@hotmail.com,627-453-9441,True,2022-02-24
+17,Keith Willis,2,davisnicole@ramsey.com,641-308-6042,True,2021-08-31
+18,Renee Hill,1,robert95@gmail.com,558-427-2929,False,2019-04-12
+19,Katherine Nguyen MD,3,daniel35@yahoo.com,113-877-5287,False,2021-07-24
+20,Lisa Kim,3,jason18@marquez.org,201-349-1507,False,2020-04-29

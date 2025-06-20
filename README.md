@@ -26,6 +26,34 @@ This project reflects common use cases a Business Analyst might face in healthca
 
 ### 🔸 1. Database Setup
 
+## 🏗️ Project Structure
+
+### 1. Database Setup
+
+- **Database Name**: `hospital_management`
+- This project simulates a fully functional hospital database system using PostgreSQL.
+
+### 2. Table Creation
+
+Six core tables are created to represent key hospital operations:
+
+- `departments`: Stores hospital department information like department name and department head.
+- `doctors`: Contains doctor records, linked to departments, including hire date and active flag.
+- `patients`: Captures personal and registration details of patients.
+- `appointments`: Tracks appointments between patients and doctors, with status and notes.
+- `treatments`: Records medical treatments tied to appointments, with outcome classification.
+- `billing`: Logs billing information including amount, payment status, and linked appointments/patients.
+
+Each table is designed with **primary and foreign key constraints** to simulate realistic relationships across entities.
+
+### 3. Sample Data Insertion
+
+All tables are populated with realistic sample data, including:
+
+- Clean relationships between tables to ensure JOINs work as expected
+- Sample records that support data cleaning, KPI analysis, and reporting queries
+- Date fields properly formatted for PostgreSQL
+
 ```sql
 -- 1. Departments Table
 CREATE TABLE departments (
@@ -85,43 +113,33 @@ CREATE TABLE billing (
   payment_status VARCHAR(20),
   FOREIGN KEY (patient_id) REFERENCES patients(patient_id),
   FOREIGN KEY (appointment_id) REFERENCES appointments(appointment_id));
-
-## 📊 SQL Queries for Business Analysts
-
-This section includes 30 SQL queries structured across key real-world Business Analyst use cases using the hospital management database.
-
-### 1. 🩺 Basic SELECT & Filtering
-
-1. Write a SQL query to list all departments in the hospital.
-
-```sql
-SELECT department_name
-FROM departments;
-
-2. Write a SQL query to show all patients who registered in the last 6 months
-
-SELECT *
-FROM patients
-WHERE registration_date >= CURRENT_DATE - INTERVAL '6 MONTHS';
-
-3. Write a SQL query to find all appointments with status 'Completed'.
-
-SELECT *
-FROM appointments
-WHERE appointment_status = 'Completed';
-
-4. Write a SQL query to retrieve all doctors who are currently inactive.
-
-SELECT *
-FROM doctors
-WHERE active_flag = false;
 ```
 
+### 2. 📊 SQL Queries for Business Analysts
+✅ Full query list with categories and numbered labels is included in [Hospital_SQL_Queries](https://github.com/shayisthaabdulla/Hospital_Management/blob/main/Hospital_SQL_Queries_README.md)
 
+**Key areas covered**:
+
+**1. Basic SELECT & Filtering**
+Show departments, recent patients, completed appointments, etc.
+
+**2. JOINs & Relationships**
+Join appointments with patients/doctors, billing, treatments, and department mapping.
+
+**3. Aggregations & Metrics**
+Count appointments, total/avg billing, top spenders, treatment outcomes.
+
+**4. Data Cleaning & Validation**
+Check for missing values, duplicates, orphan records, mismatched relationships.
+
+**5. Subqueries & CASE****
+Show appointment frequency, unpaid bills with labels, and custom logic.
+
+**6. Time-Based Performance****
+Analyze monthly revenue, appointments in last 30/90 days, department-wise stats.
 
 ### 3. Key Findings
-- Some patients had missing emails or duplicate contact info.
-- Appointments with missing notes or invalid billing values were identified.
+- Top 3 patients accounted for a significant portion of total revenue
 - Revenue trends and appointment metrics helped evaluate operational efficiency.
 - Doctor workload and department performance were measured using joins and aggregates.
 - CASE statements helped simplify reporting logic directly in SQL.
@@ -132,7 +150,6 @@ WHERE active_flag = false;
 - Departmental Billing Contribution
 - Patient Engagement Scorecard
 - Treatment Success Analysis
-
 
 ### About the Author
 Microsoft Certified Dynamics 365 professional, Shayistha Abdulla is a Business Analyst with 9+ years of experience across Digital Marketing, CRM, PropTech, and IT Consulting. This project reflects her practical SQL expertise applied to healthcare and service industry scenarios, built using PostgreSQL.
